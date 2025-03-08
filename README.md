@@ -16,6 +16,6 @@
 <h3>Languages and tools</h3>
 
 <img src="  "
-title="java" width="40" height="40"/>&nbsp;
+title="j" width="80" height="40"/>&nbsp;
 
 ##
