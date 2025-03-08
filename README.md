@@ -6,14 +6,14 @@
 </a><h4>
 </div>
   
-##About me
+<h3>About me</h3>
 -...
 -...
 -...
 
 ***
 
-##Languages and tools
+<h3>Languages and tools</h3>
 
 <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "
 title="js" width="40" height="40"/>&nbsp;
