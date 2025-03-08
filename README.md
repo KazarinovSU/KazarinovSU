@@ -2,8 +2,7 @@
 <h1>Hi there, I'm Vova</h1>
 <h3>Java developer</h3>
 <a href="linkedin-url">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-
-badge&logo=linkedin&logo Color=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </div>
   
