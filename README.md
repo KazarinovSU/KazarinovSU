@@ -2,7 +2,8 @@
 <h1>Hi there, I'm Vova</h1>
 <h3>Java developer</h3>
 <a href="linkedin-url">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="telegram"/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
 </a>
 </div>
   
