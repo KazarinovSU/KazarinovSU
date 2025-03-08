@@ -5,3 +5,11 @@
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="telegram"/>
 </a><h4>
 </div>
+### About me
+-...
+-...
+-...
+___
+### Languages and tools
+<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "
+title="js" width="40" height="40"/>&nbsp;
