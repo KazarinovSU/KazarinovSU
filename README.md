@@ -2,8 +2,8 @@
 <h1>Hi there, I'm Vova</h1>
 <h3>Java developer</h3>
 <a href="linkedin-url">
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-
+badge&logo=linkedin&logo Color=white" alt="LinkedIn"/>
 </a>
 </div>
   
