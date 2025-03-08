@@ -22,8 +22,8 @@
 
 <h3>Educations</h3>
 
-📖 International educational institution
+🎓 International educational institution
 
-📆 2025 - to this day.
+📅 2025 - to this day.
 
-📍 TOP Academy Moscow (Software development) 
+📑 TOP Academy Moscow (Software development) 
