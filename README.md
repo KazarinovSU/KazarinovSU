@@ -17,7 +17,7 @@
 
 ##
 
-<h2>🛠️Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 **Languages:** JavaScript, Python
 
