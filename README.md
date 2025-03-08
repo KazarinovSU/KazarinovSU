@@ -15,7 +15,6 @@
 
 <h3>Languages and tools</h3>
 
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "
-title="js" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&labelColor=ED8B00&logo=java&color=808080[Java" width="40" height="40"/>&nbsp;
 
 ##
