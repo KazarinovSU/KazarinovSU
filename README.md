@@ -15,6 +15,6 @@
 
 <h3>Languages and tools</h3>
 
-<img src="[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)" alt="java"/>
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
 ##
