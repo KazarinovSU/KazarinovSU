@@ -21,7 +21,7 @@
 
 **Languages:** JavaScript, Python
 
-**Tools:** Git
+**Tools:** Git, intellij-original
 
 ##
 
