@@ -15,7 +15,6 @@
 
 <h3>Languages and tools</h3>
 
-<img src="  "
-title="j" width="80" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="telegram"/>
 
 ##
