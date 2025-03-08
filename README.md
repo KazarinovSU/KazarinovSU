@@ -2,6 +2,6 @@
 <h1>Hi there, I'm Vova</h1>
 <h3>Java developer</h3>
 </div>
-<a href="linkedin-url">
+<h4><a href="linkedin-url">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="telegram"/>
-</a>
+</a><h4>
