@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<h1>Hi there, I'm Vova</h1>
+<h1>Hi there, I'm Vova👋</h1>
 <h3>Java developer</h3>
 <a href="linkedin-url">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
@@ -7,20 +7,24 @@
 </a>
 </div>
   
-<h3>About me</h3>
--...
--...
--...
+<h2>About me</h2>
+
+💻 I specialize in Python, but I enjoy exploring other technologies and languages as well.
+
+🚀 I'm always eager to learn new things and take on new challenges.
+
+🎓 I believe in the power of knowledge-sharing and open source.
 
 ##
 
-<h3>Languages and tools</h3>
+<h2>🛠️Tech Stack</h2>
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+**Languages:** JavaScript, Python
+
 
 ##
 
-<h3>Educations</h3>
+<h2>Educations</h2>
 
 🎓 International educational institution
 
