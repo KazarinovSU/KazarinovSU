@@ -19,3 +19,9 @@
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
 ##
+
+<h3>Educations</h3>
+
+📖 International educational institution
+📆 2025 - to this day.
+📍 TOP Academy Moscow (Software development) 
