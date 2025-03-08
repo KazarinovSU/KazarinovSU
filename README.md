@@ -9,7 +9,7 @@
   
 <h2>About me</h2>
 
-💻 I specialize in Python, but I enjoy exploring other technologies and languages as well.
+💻 I specialize in **Java**, but I enjoy exploring other technologies and languages as well.
 
 🚀 I'm always eager to learn new things and take on new challenges.
 
