@@ -9,11 +9,12 @@
 
 <h2>About me</h2>
 
-💻 I specialize in **Java**, but I enjoy exploring other technologies and languages as well.
+💻 I am a beginner programmer, studying **Java** and actively developing in this area.
 
-🚀 I'm always eager to learn new things and take on new challenges.
+🚀 I try my hand at creating simple applications and solving problems on platforms such as LeetCode and Codewars.
+My main focus is on learning Java and creating effective, high—quality solutions.
 
-🎓 I believe in the power of knowledge-sharing and open source.
+🎓 I strive to develop in the field of web application development and am ready for new professional challenges.
 
 <h2>Tech Stack</h2>
 
