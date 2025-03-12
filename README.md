@@ -18,7 +18,7 @@ My main focus is on learning Java and creating effective, high—quality solutio
 
 <h2>Tech Stack</h2>
 
-**Languages:** JavaScript, Python
+**Languages:** Java
 
 **Tools:** Git, intellij-original
 
