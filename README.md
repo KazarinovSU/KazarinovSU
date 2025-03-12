@@ -52,7 +52,9 @@ A creative background in **3D Animation** and **Animation Art** that influences 
 
 ## 📊 GitHub Stats
 
-![Vova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&theme=highcontrast)
+![Vova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KazarinovSU&show_icons=true&count_private=true&hide_title=true&theme=highcontrast)
+
+
 
 ---
 
