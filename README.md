@@ -35,12 +35,20 @@ I believe in writing **clean, maintainable code** and always strive to improve t
 
 ## 🎓 Education
 
-**TOP Academy Moscow**  
+### **TOP Academy Moscow**  
 *Software Development*  
 🔥 **2025 - Present**
 
 **International Educational Institution**  
 🎓 Learning the fundamentals of **software development** and **programming principles**.
+
+---
+
+### **Middle Professional Education**  
+**Qualification**: **3D Animator, Animation**  
+📅 **2016 - 2019**
+
+I received professional training as a **3D Animator** with a specialization in **3D animation**. This background helped me develop a creative mindset and an eye for detail, which I now apply to my programming projects. The experience I gained in the world of animation allows me to combine both creativity and technical skills in my development journey.
 
 ---
 
