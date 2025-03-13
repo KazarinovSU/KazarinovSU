@@ -16,9 +16,8 @@ Hello! I'm **Vova**, a passionate **Java Developer** with a background in **3D A
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java (Core), SQL (MySQL)
+- **Languages**: Java
 - **Tools**: Git, IntelliJ IDEA
-- **Frameworks**: Spring Boot (currently learning)
 
 ---
 
