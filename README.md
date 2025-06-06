@@ -60,7 +60,7 @@
     * -[ ] `compare(T o1, T o2)`	— Сравнение двух объектов (Comparator)
 * -[ ] Работа с массивами и коллекциями (`List`, `Map`, `Set`)
   * -[x] Массив (Array) структура вида:
-    * ```java
+      ```java
       int[] numbers = new int[5];             // одномерный
       String[][] names = new String[3][4];    // двумерный
       double[][][] data = new double[2][3][4]; // трёхмерный
