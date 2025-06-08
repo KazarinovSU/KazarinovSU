@@ -119,6 +119,11 @@
 * -[ ] Основы SQL и работа с базами данных (PostgreSQL, MySQL)
 * -[ ] Docker, CI/CD, микросервисы
 
+## Учебные проекты
+
+- [Calculator](https://github.com/KazarinovSU/calculator) — простой калькулятор на Java, практическое закрепление базовых конструкций и ООП  
+- [GuessTheNumber](https://github.com/KazarinovSU/GuessTheNumber) — игра «Угадай число», тренировка работы с циклами и вводом данных  
+- [Currency-Temperature-Converter](https://github.com/KazarinovSU/Currency-Temperature-Converter) — конвертер валют и температуры, практика с пользовательским вводом и арифметикой 
 
 ## GitHub Stats
 
