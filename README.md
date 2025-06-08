@@ -2,8 +2,7 @@
 Привет! 👋
 Я начинающий Java-разработчик, изучающий и практикующий основы языка и технологии. В процессе обучения освоил ключевые концепции и инструменты, необходимые для дальнейшего роста в области Java-разработки.
 
-<img src="https://img.icons8.com/?size=100&id=KnTSVNcE6p13&format=png&color=000000" alt="Java" width="40" height="40" style="vertical-align:middle;" />
-<img src="https://img.icons8.com/?size=100&id=6eTRpgF0TFTj&format=png&color=000000" alt="JavaScript" width="40" height="40" style="vertical-align:middle;" />
+<img src="https://img.icons8.com/?size=100&id=KnTSVNcE6p13&format=png&color=000000" alt="Java" width="40" height="40" style="vertical-align:middle;" /> <img src="https://img.icons8.com/?size=100&id=6eTRpgF0TFTj&format=png&color=000000" alt="JavaScript" width="40" height="40" style="vertical-align:middle;" />
 
 
 ## Технические знания и навыки
