@@ -2,8 +2,34 @@
 Привет! 👋
 Я начинающий Java-разработчик, изучающий и практикующий основы языка и технологии. В процессе обучения освоил ключевые концепции и инструменты, необходимые для дальнейшего роста в области Java-разработки.
 
-<span style="background:#007acc;color:#fff;border-radius:12px;padding:4px 12px;font-weight:600;">Java</span>
-<span style="background:#f0db4f;color:#000;border-radius:12px;padding:4px 12px;font-weight:600;margin-left:8px;">JS</span>
+<span style="
+  display: inline-block;
+  background-color: #f39c12;
+  color: white;
+  border-radius: 12px;
+  padding: 4px 12px;
+  font-weight: 600;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  border: 2px solid #e67e22; /* добавлена обводка */
+">
+  Java
+</span>
+
+<span style="
+  display: inline-block;
+  background-color: #f1c40f;
+  color: black;
+  border-radius: 12px;
+  padding: 4px 10px;
+  font-weight: 600;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  margin-left: 8px;
+  border: 2px solid #f39c12; /* обводка для второго */
+">
+  JS
+</span>
 
 ## Технические знания и навыки
 
