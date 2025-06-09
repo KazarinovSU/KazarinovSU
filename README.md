@@ -1,6 +1,7 @@
 # Beginner Java Developer  
 ![Java](https://img.shields.io/badge/Java-%23e60000?style=flat&logo=java&logoColor=white&borderRadius=9999)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logoColor=white&borderRadius=9999)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logoColor=white&borderRadius=9999)
 
 Привет! 👋
 Я начинающий Java-разработчик, изучающий и практикующий основы языка и технологии. В процессе обучения освоил ключевые концепции и инструменты, необходимые для дальнейшего роста в области Java-разработки.
