@@ -130,11 +130,8 @@
 - [GuessTheNumber](https://github.com/KazarinovSU/GuessTheNumber) — игра «Угадай число», тренировка работы с циклами и вводом данных  
 - [Currency-Temperature-Converter](https://github.com/KazarinovSU/Currency-Temperature-Converter) — конвертер валют и температуры, практика с пользовательским вводом и арифметикой 
 
-## GitHub Stats
+## GitHub Stats && Languages
 
 ![Vova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KazarinovSU&show_icons=true&count_private=true&hide_title=true&theme=highcontrast)
-
-## Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazarinovSU&layout=compact&theme=radical)
 
