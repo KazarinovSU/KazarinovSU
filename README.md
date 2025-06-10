@@ -135,3 +135,9 @@
 ![Vova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KazarinovSU&show_icons=true&count_private=true&hide_title=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazarinovSU&layout=compact&theme=radical)
 
+## Контакты
+
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="20"/>](mailto:kazarinovvladimir988@gmail.com) kazarinovvladimir988@gmail.com
+
+
+
