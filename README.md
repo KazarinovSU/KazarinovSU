@@ -135,7 +135,7 @@
 
 ## Контакт
 
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="20"/>](mailto:kazarinovvladimir988@gmail.com) - kazarinovvladimir988@gmail.com
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="20"/>](mailto:kazarinovvladimir988@gmail.com)
 
 
 
