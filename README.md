@@ -1,5 +1,5 @@
 # Beginner Java Developer  
-![Java](https://img.shields.io/badge/Java-%23e60000?style=flat&logo=java&logoColor=white&borderRadius=9999)
+![Java SE](https://img.shields.io/badge/Java%20SE-%23e60000?style=flat&logo=java&logoColor=white&borderRadius=9999)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logoColor=white&borderRadius=9999)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logoColor=white&borderRadius=9999)
 
